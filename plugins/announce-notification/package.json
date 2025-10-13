@@ -1,0 +1,9 @@
+{
+  "name": "announce-notification",
+  "version": "1.0.0",
+  "description": "Announce when Claude Code is idle or needs your input",
+  "author": {
+    "name": "Hugo Duncan"
+  },
+  "main": "settings.json"
+}
