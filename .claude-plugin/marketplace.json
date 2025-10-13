@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "announce-notification",
-      "source": "/plugins/announce-notification",
+      "source": "./plugins/announce-notification",
       "description": "Announce when Claude Code is idle or needs your input",
       "version": "1.0.0",
       "author": {
