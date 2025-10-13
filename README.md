@@ -18,12 +18,14 @@ Audio notifications when Claude Code is idle or needs your input.
 - Announces "Claude idle in [directory]" when Claude becomes idle
 - Provides audio feedback with directory context
 - Works seamlessly across multiple projects
+- Cross-platform support for macOS and Linux
 
 **Requirements:**
-- macOS (uses `say` command)
 - `jq` JSON processor
+- macOS: `say` command (built-in)
+- Linux: `spd-say` (speech-dispatcher) or `espeak`
 
-[Full documentation](plugins/announce-notification/README.md)
+[Full documentation](plugins/announce-notification/README.md) | [Linux setup instructions](plugins/announce-notification/README.md#linux)
 
 ## Installation
 
