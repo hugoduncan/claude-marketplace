@@ -84,7 +84,7 @@ The plugin registers a notification hook that:
 
 ## Files
 
-- `settings.json` - Hook configuration
+- `hooks/hooks.json` - Hook configuration
 - `scripts/idle_notification.sh` - Notification script
 - `package.json` - Plugin metadata
 
