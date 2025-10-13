@@ -5,5 +5,10 @@
   "author": {
     "name": "Hugo Duncan"
   },
-  "main": "settings.json"
+  "main": "settings.json",
+  "files": [
+    "settings.json",
+    "scripts/",
+    "README.md"
+  ]
 }
