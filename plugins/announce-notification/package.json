@@ -9,6 +9,7 @@
   "files": [
     "settings.json",
     "scripts/",
+    "hooks/",
     "README.md"
   ]
 }
