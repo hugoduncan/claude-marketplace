@@ -5,5 +5,5 @@
   "author": {
     "name": "Hugo Duncan"
   },
-  "hooks": "./hooks/hooks.json"
+  "hooks": "./hooks/announce-notification-hooks.json"
 }
