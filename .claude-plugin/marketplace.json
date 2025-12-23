@@ -13,6 +13,15 @@
       "author": {
         "name": "Hugo Duncan"
       }
+    },
+    {
+      "name": "clojure-lsp",
+      "source": "./plugins/clojure-lsp",
+      "description": "Clojure/ClojureScript language server integration for Claude Code",
+      "version": "1.0.0",
+      "author": {
+        "name": "Hugo Duncan"
+      }
     }
   ]
 }

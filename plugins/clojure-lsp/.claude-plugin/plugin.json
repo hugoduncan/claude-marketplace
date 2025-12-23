@@ -1,0 +1,19 @@
+{
+  "name": "clojure-lsp",
+  "version": "1.0.0",
+  "description": "Clojure/ClojureScript language server integration for Claude Code",
+  "author": {
+    "name": "Hugo Duncan"
+  },
+  "lspServers": {
+    "clojure": {
+      "command": "clojure-lsp",
+      "extensionToLanguage": {
+        ".clj": "clojure",
+        ".cljs": "clojurescript",
+        ".cljc": "clojure",
+        ".edn": "edn"
+      }
+    }
+  }
+}
